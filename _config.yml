@@ -1,5 +1,5 @@
 
-title: Catbook #Your awesome title
+title: 초보 개발자 일지 #Your awesome title
 email: #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
@@ -20,7 +20,7 @@ disqus_shortname: #disqus shortname
 user:
   name: Yunjeong
   pic: /assets/img/cat.jpg
-  picAlt: "초보 개발자 일지"
+  picAlt: 
   job: 시작하는 개발자
   aboutme: true # comment this out if you don't need the 'about' page.
 
